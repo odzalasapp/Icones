@@ -282,9 +282,6 @@
 		<display-name>Ketnet</display-name>
 		<icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png"/>
 	</channel>
-	
-	
-	
 	<programme channel="com.princeodzalasapp.tntlivetv.1" start="20201118150147 +0000" stop="20201118230147 +0100" video-src="https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8" video-type="HLS">
 		<title>Le journal de 20h</title>
 		<desc>Le 20 heures du 18 novembre 2020</desc>
